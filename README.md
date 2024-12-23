@@ -28,6 +28,8 @@ after install with
 ```bash
 install_office.cmd
 ```
+Backup the JustMsOfficeInstaller folder so you can install offline without having to download again
+
 # Update Office Installation Files
 run this script to update office installation files with latest
 ```bash
