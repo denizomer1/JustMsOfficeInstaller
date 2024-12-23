@@ -28,6 +28,4 @@ echo Microsoft Office Downloading...
 
 setup.exe /download Configuration.xml
 
-clear
-
 set /p "id=Microsoft Office Downloaded Press enter key to close"

@@ -28,6 +28,4 @@ echo Microsoft Office Installing...
 
 setup.exe /configure Configuration.xml
 
-clear
-
 set /p "id=Microsoft Office Installed Press enter key to close"
