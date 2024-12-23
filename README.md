@@ -33,3 +33,9 @@ run this script to update office installation files with latest
 ```bash
 download_office.cmd
 ```
+
+# Office Activation
+Use MAS to activate microsoft office
+```bash
+https://github.com/massgravel/Microsoft-Activation-Scripts
+```
