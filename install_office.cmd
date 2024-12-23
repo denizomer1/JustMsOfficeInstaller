@@ -28,4 +28,6 @@ echo Microsoft Office Installing...
 
 setup.exe /configure Configuration.xml
 
+powershell.exe -Command "& {clear}"
+
 set /p "id=Microsoft Office Installed Press enter key to close"
