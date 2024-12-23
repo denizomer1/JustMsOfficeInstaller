@@ -37,7 +37,7 @@ download_office.cmd
 ```
 
 # Office Activation
-Use MAS to activate microsoft office
+Use Office 365 Subscription to activate office or use MAS
 ```bash
 https://github.com/massgravel/Microsoft-Activation-Scripts
 ```
