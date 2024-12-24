@@ -1,6 +1,6 @@
 # JustMsOfficeInstaller
 
-Microsoft Office 365 Installer for Windows x64
+Microsoft Office 365 Installer for Windows 10/11 x64
 this script allows you to download and install latest office 365 excel,word and powerpoint with no additional programs installed
 
 # Initialization
